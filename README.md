@@ -1,5 +1,7 @@
-Update credential.ini
+1. Update credential.ini with you API Key.
+   
+2. pip install all missing libraries
 
-Start the app: 
+3. Start the app: 
 
-streamlit run app.py 
+  streamlit run app.py 
